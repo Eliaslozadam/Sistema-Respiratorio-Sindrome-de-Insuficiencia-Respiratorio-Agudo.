@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Sistema Respiratorio: Síndrome de Insuficiencia Respiratoria Aguda"
+message: "Si utilizas este trabajo, por favor cítalo utilizando la información contenida en este archivo."
+type: software
+authors:
+  - family-names: Bejarano Lozada
+    given-names: Elias
+    affiliation: Tecnológico Nacional de México/IT Tijuana
+    email: elias.Bejarano201@tectijuana.edu.mx
+  - family-names: Cruz Preciado
+    given-names: Brissa Celeste
+    affiliation: Tecnológico Nacional de México/IT Tijuana
+    email: L21212149@tectijuana.edu.mx
+  - family-names: Vazquez Aldeco
+    given-names: Kennia Michelle
+    affiliation: Tecnológico Nacional de México/IT Tijuana
+    email: L21212183@tectijuana.edu.mx
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Eliaslozadam/Sistema-Rrspiratorio-Sindrome-de-Insuficiencia-Respiratorio-Agudo"
+date-released: "2024-12-15"
+keywords:
+  - modelado
+  - sistemas fisiológicos
+  - SIRA
+  - ingeniería biomédica
