@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Eliaslozadam/Sistema-Rrspiratorio-Sindrome-de-Insuficiencia-Respiratorio-Agudo)
 
-# Sistema Respiratorio Síndrome de Insuficiencia Respiratoria Aguda
+# Sistema Respiratorio: Síndrome de Insuficiencia Respiratoria Aguda
 ## Estudiantes
 Bejarano Lozada Elias; Cruz Preciado Brissa Celeste; Vazquez Aldeco Kennia Michelle.
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: elias.Bejarano201@tectijuana.edu.mx; L21212149@tectijuana.edu.mx; L21212183@tectijuana.edu.mx
